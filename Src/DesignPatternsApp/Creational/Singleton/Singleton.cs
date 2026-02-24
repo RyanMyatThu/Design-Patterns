@@ -1,4 +1,5 @@
 using System.Threading;
+namespace DesignPatternsApp.Creational.Singleton;
 
 public class Singleton
 {
